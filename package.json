@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "homepage": "https://github.com/luscus/geohash.graticule",
   "author": "https://github.com/luscus/geohash.graticule/graphs/contributors",
-  "description": "Simple FS Storage Service enable a node app to store/retieve JSON objects to/from the filesystem via HTTP",
+  "description": "Returns a graticule based on a GeoHash precision and represented as GeoJSON MultiLineString",
   "keywords": [
     "geohash",
     "ngeohash",
