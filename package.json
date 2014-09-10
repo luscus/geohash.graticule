@@ -1,0 +1,33 @@
+{
+  "name": "geohash.graticule",
+  "version": "0.0.1",
+  "homepage": "https://github.com/luscus/geohash.graticule",
+  "author": "https://github.com/luscus/geohash.graticule/graphs/contributors",
+  "description": "Simple FS Storage Service enable a node app to store/retieve JSON objects to/from the filesystem via HTTP",
+  "keywords": [
+    "geohash",
+    "ngeohash",
+    "geojson",
+    "graticule"
+  ],
+  "dependencies": {
+    "node.extend": "1.1.2",
+    "q": "2.0.1",
+    "ngeohash": "0.6.x"
+  },
+  "devDependencies": {
+    "grunt": "0.4.5",
+    "grunt-contrib-clean": "0.5.0",
+    "grunt-contrib-jshint": "0.10.0",
+    "grunt-mocha-test": "0.10.2",
+    "load-grunt-tasks": "0.6.0",
+    "chai": "1.9.1",
+    "mocha": "1.21.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:luscus/geohash.graticule.git"
+  },
+  "main": "./lib/geohash.graticule",
+  "bugs": "https://github.com/luscus/node-geohash.graticule/issues"
+}
