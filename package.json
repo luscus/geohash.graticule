@@ -13,7 +13,7 @@
   "dependencies": {
     "node.extend": "1.1.6",
     "q": "2.0.1",
-    "ngeohash": "0.6.x"
+    "ngeohash": "~0.6.2"
   },
   "devDependencies": {
     "grunt": "1.0.1",
